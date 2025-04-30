@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img  src="header.png"/>
+</p>
+
 # CRMantra: Where CRM is our MANTRA
 
 👋 **Welcome to the CRMantra Developer Team!**
