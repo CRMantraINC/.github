@@ -29,6 +29,9 @@ We provide high-impact CRM solutions to address key challenges:
 - **Salesforce Rescue Missions:** Turning troubled implementations into success stories  
 
 ---
+<p align="center">
+  <img  src="cards.png"/>
+</p>
 
 ## 👥 Leadership
 
