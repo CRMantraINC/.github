@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img  src="header1.png"/>
+  <img  src="header2.png"/>
 </p>
 
 # CRMantra: Where CRM is our MANTRA
